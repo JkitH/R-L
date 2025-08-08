@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="1539 3582  100 8" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="39px" preserveAspectRatio="xMidYMin meet" viewBox="2013 4053  8 39" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip1760">
-      <path d="M 1566 3567  L 1608 3567  L 1608 3606  L 1566 3606  Z M 1529 3567  L 1644 3567  L 1644 3606  L 1529 3606  Z " fill-rule="evenodd" />
+    <mask fill="white" id="clip187">
+      <path d="M 1997 4068  L 2039 4068  L 2039 4107  L 1997 4107  Z M 1997 4043  L 2039 4043  L 2039 4132  L 1997 4132  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 1566 3586  L 1541 3586  M 1608 3586  L 1632 3586  " stroke-width="2" stroke="#555555" fill="none" />
-  <path d="M 1542.5 3582.5  A 3.5 3.5 0 0 0 1539 3586 A 3.5 3.5 0 0 0 1542.5 3589.5 A 3.5 3.5 0 0 0 1546 3586 A 3.5 3.5 0 0 0 1542.5 3582.5 Z M 1626.89289321881 3581.70710678119  L 1631.18578643763 3586  L 1626.89289321881 3590.29289321881  L 1628.30710678119 3591.70710678119  L 1633.30710678119 3586.70710678119  L 1634.01421356237 3586  L 1633.30710678119 3585.29289321881  L 1628.30710678119 3580.29289321881  L 1626.89289321881 3581.70710678119  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip1760)" />
+  <path d="M 2017 4055  L 2017 4087  L 2018 4087  L 2018 4121  " stroke-width="2" stroke="#555555" fill="none" mask="url(#clip187)" />
+  <path d="M 2017 4053  A 3.5 3.5 0 0 0 2013.5 4056.5 A 3.5 3.5 0 0 0 2017 4060 A 3.5 3.5 0 0 0 2020.5 4056.5 A 3.5 3.5 0 0 0 2017 4053 Z M 2022.29289321881 4115.89289321881  L 2018 4120.18578643763  L 2013.70710678119 4115.89289321881  L 2012.29289321881 4117.30710678119  L 2017.29289321881 4122.30710678119  L 2018 4123.01421356237  L 2018.70710678119 4122.30710678119  L 2023.70710678119 4117.30710678119  L 2022.29289321881 4115.89289321881  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip187)" />
 </svg>

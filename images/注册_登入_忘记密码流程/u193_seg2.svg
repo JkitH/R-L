@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="2568 4206  20 18" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="2450 4676  21 18" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip1817">
-      <path d="M 2546.5 4163  L 2609.5 4163  L 2609.5 4202  L 2546.5 4202  Z M 2546.5 4138  L 2609.5 4138  L 2609.5 4227  L 2546.5 4227  Z " fill-rule="evenodd" />
+    <mask fill="white" id="clip241">
+      <path d="M 2303 4666  L 2345 4666  L 2345 4705  L 2303 4705  Z M 2298 4550  L 2474 4550  L 2474 4705  L 2298 4705  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 2578 4163  L 2578 4150  M 2578 4202  L 2578 4216  " stroke-width="2" stroke="#555555" fill="none" />
-  <path d="M 2578 4148  A 3.5 3.5 0 0 0 2574.5 4151.5 A 3.5 3.5 0 0 0 2578 4155 A 3.5 3.5 0 0 0 2581.5 4151.5 A 3.5 3.5 0 0 0 2578 4148 Z M 2582.29289321881 4210.89289321881  L 2578 4215.18578643763  L 2573.70710678119 4210.89289321881  L 2572.29289321881 4212.30710678119  L 2577.29289321881 4217.30710678119  L 2578 4218.01421356237  L 2578.70710678119 4217.30710678119  L 2583.70710678119 4212.30710678119  L 2582.29289321881 4210.89289321881  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip1817)" />
+  <path d="M 2463 4685  L 2308 4685  L 2308 4562  " stroke-width="2" stroke="#555555" fill="none" mask="url(#clip241)" />
+  <path d="M 2461.5 4681.5  A 3.5 3.5 0 0 0 2458 4685 A 3.5 3.5 0 0 0 2461.5 4688.5 A 3.5 3.5 0 0 0 2465 4685 A 3.5 3.5 0 0 0 2461.5 4681.5 Z M 2303.70710678119 4567.10710678119  L 2308 4562.81421356237  L 2312.29289321881 4567.10710678119  L 2313.70710678119 4565.69289321881  L 2308.70710678119 4560.69289321881  L 2308 4559.98578643763  L 2307.29289321881 4560.69289321881  L 2302.29289321881 4565.69289321881  L 2303.70710678119 4567.10710678119  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip241)" />
 </svg>
