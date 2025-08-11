@@ -73,6 +73,8 @@
 .checkbox {
   text-align:left;
 }
+.flow_shape {
+}
 .connector {
   font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
   font-weight:400;
@@ -85,8 +87,8 @@
 }
 .form_disabled {
 }
-.flow_shape {
+.flow_shape1 {
 }
 .icon {
 }
-textarea, select, input, button { outline: none; }
+textarea, select, input, button, div, svg { outline: none; }

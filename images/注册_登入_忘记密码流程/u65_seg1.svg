@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="1829 659  21 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1838 668  L 1900 668  " stroke-width="2" stroke="#555555" fill="none" />
-  <path d="M 1839.5 664.5  A 3.5 3.5 0 0 0 1836 668 A 3.5 3.5 0 0 0 1839.5 671.5 A 3.5 3.5 0 0 0 1843 668 A 3.5 3.5 0 0 0 1839.5 664.5 Z M 1894.89289321881 663.707106781187  L 1899.18578643763 668  L 1894.89289321881 672.292893218813  L 1896.30710678119 673.707106781187  L 1901.30710678119 668.707106781187  L 1902.01421356237 668  L 1901.30710678119 667.292893218813  L 1896.30710678119 662.292893218813  L 1894.89289321881 663.707106781187  Z " fill-rule="nonzero" fill="#555555" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="1829 659 21 18" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1838 668  L 1900 668  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
+  <path d="M 1839.5 664.5  A 3.5 3.5 0 0 0 1836 668 A 3.5 3.5 0 0 0 1839.5 671.5 A 3.5 3.5 0 0 0 1843 668 A 3.5 3.5 0 0 0 1839.5 664.5 Z M 1894.8928932188135 663.7071067811866  L 1899.185786437627 668  L 1894.8928932188135 672.2928932188134  L 1896.3071067811863 673.7071067811866  L 1901.3071067811863 668.7071067811866  L 1902.0142135623728 668  L 1901.3071067811863 667.2928932188134  L 1896.3071067811863 662.2928932188134  L 1894.8928932188135 663.7071067811866  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" />
 </svg>

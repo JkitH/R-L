@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="2567 781  20 18" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="2567 781 20 18" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip95">
+    <mask fill="white" id="Clip98">
       <path d="M 2545.5 738  L 2608.5 738  L 2608.5 777  L 2545.5 777  Z M 2545.5 713  L 2608.5 713  L 2608.5 802  L 2545.5 802  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 2577 738  L 2577 725  M 2577 777  L 2577 791  " stroke-width="2" stroke="#555555" fill="none" />
-  <path d="M 2577 723  A 3.5 3.5 0 0 0 2573.5 726.5 A 3.5 3.5 0 0 0 2577 730 A 3.5 3.5 0 0 0 2580.5 726.5 A 3.5 3.5 0 0 0 2577 723 Z M 2581.29289321881 785.892893218813  L 2577 790.185786437627  L 2572.70710678119 785.892893218813  L 2571.29289321881 787.307106781187  L 2576.29289321881 792.307106781187  L 2577 793.014213562373  L 2577.70710678119 792.307106781187  L 2582.70710678119 787.307106781187  L 2581.29289321881 785.892893218813  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip95)" />
+  <path d="M 2577 738  L 2577 725  M 2577 777  L 2577 791  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
+  <path d="M 2577 723  A 3.5 3.5 0 0 0 2573.5 726.5 A 3.5 3.5 0 0 0 2577 730 A 3.5 3.5 0 0 0 2580.5 726.5 A 3.5 3.5 0 0 0 2577 723 Z M 2581.2928932188133 785.8928932188135  L 2577 790.1857864376268  L 2572.7071067811867 785.8928932188135  L 2571.2928932188133 787.3071067811866  L 2576.2928932188133 792.3071067811866  L 2577 793.0142135623732  L 2577.7071067811867 792.3071067811866  L 2582.7071067811867 787.3071067811866  L 2581.2928932188133 785.8928932188135  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip98)" />
 </svg>

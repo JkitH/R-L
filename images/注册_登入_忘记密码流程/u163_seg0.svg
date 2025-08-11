@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="161px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="2303 4174  161 8" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="161px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="2303 4174 161 8" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip198">
+    <mask fill="white" id="Clip201">
       <path d="M 2303 4159  L 2345 4159  L 2345 4198  L 2303 4198  Z M 2298 4043  L 2474 4043  L 2474 4198  L 2298 4198  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 2463 4178  L 2308 4178  L 2308 4055  " stroke-width="2" stroke="#555555" fill="none" mask="url(#clip198)" />
-  <path d="M 2461.5 4174.5  A 3.5 3.5 0 0 0 2458 4178 A 3.5 3.5 0 0 0 2461.5 4181.5 A 3.5 3.5 0 0 0 2465 4178 A 3.5 3.5 0 0 0 2461.5 4174.5 Z M 2303.70710678119 4060.10710678119  L 2308 4055.81421356237  L 2312.29289321881 4060.10710678119  L 2313.70710678119 4058.69289321881  L 2308.70710678119 4053.69289321881  L 2308 4052.98578643763  L 2307.29289321881 4053.69289321881  L 2302.29289321881 4058.69289321881  L 2303.70710678119 4060.10710678119  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip198)" />
+  <path d="M 2463 4178  L 2308 4178  L 2308 4055  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" mask="url(#Clip201)" />
+  <path d="M 2461.5 4174.5  A 3.5 3.5 0 0 0 2458 4178 A 3.5 3.5 0 0 0 2461.5 4181.5 A 3.5 3.5 0 0 0 2465 4178 A 3.5 3.5 0 0 0 2461.5 4174.5 Z M 2303.7071067811867 4060.1071067811868  L 2308 4055.8142135623734  L 2312.2928932188133 4060.1071067811868  L 2313.7071067811867 4058.6928932188134  L 2308.7071067811867 4053.6928932188134  L 2308 4052.9857864376268  L 2307.2928932188133 4053.6928932188134  L 2302.2928932188133 4058.6928932188134  L 2303.7071067811867 4060.1071067811868  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip201)" />
 </svg>
