@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="80px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="2131 3582  80 8" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="102px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="2692 3994 102 8" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip1763">
-      <path d="M 2148 3567  L 2190 3567  L 2190 3606  L 2148 3606  Z M 2121 3567  L 2216 3567  L 2216 3606  L 2121 3606  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip195">
+      <path d="M 2708.5 3979  L 2771.5 3979  L 2771.5 4018  L 2708.5 4018  Z M 2682 3979  L 2799 3979  L 2799 4018  L 2682 4018  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 2148 3586  L 2133 3586  M 2190 3586  L 2204 3586  " stroke-width="2" stroke="#555555" fill="none" />
-  <path d="M 2134.5 3582.5  A 3.5 3.5 0 0 0 2131 3586 A 3.5 3.5 0 0 0 2134.5 3589.5 A 3.5 3.5 0 0 0 2138 3586 A 3.5 3.5 0 0 0 2134.5 3582.5 Z M 2198.89289321881 3581.70710678119  L 2203.18578643763 3586  L 2198.89289321881 3590.29289321881  L 2200.30710678119 3591.70710678119  L 2205.30710678119 3586.70710678119  L 2206.01421356237 3586  L 2205.30710678119 3585.29289321881  L 2200.30710678119 3580.29289321881  L 2198.89289321881 3581.70710678119  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip1763)" />
+  <path d="M 2708.5 3998  L 2694 3998  M 2771.5 3998  L 2787 3998  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
+  <path d="M 2695.5 3994.5  A 3.5 3.5 0 0 0 2692 3998 A 3.5 3.5 0 0 0 2695.5 4001.5 A 3.5 3.5 0 0 0 2699 3998 A 3.5 3.5 0 0 0 2695.5 3994.5 Z M 2781.8928932188132 3993.7071067811867  L 2786.1857864376266 3998  L 2781.8928932188132 4002.2928932188133  L 2783.3071067811866 4003.7071067811867  L 2788.3071067811866 3998.7071067811867  L 2789.0142135623732 3998  L 2788.3071067811866 3997.2928932188133  L 2783.3071067811866 3992.2928932188133  L 2781.8928932188132 3993.7071067811867  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip195)" />
 </svg>

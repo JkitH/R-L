@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="1531 1130 21 18" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="2684 152 21 18" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="Clip70">
-      <path d="M 1565 1120  L 1607 1120  L 1607 1159  L 1565 1159  Z M 1528 1120  L 1643 1120  L 1643 1159  L 1528 1159  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip74">
+      <path d="M 2707.5 142  L 2770.5 142  L 2770.5 181  L 2707.5 181  Z M 2681 142  L 2798 142  L 2798 181  L 2681 181  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 1565 1139  L 1540 1139  M 1607 1139  L 1631 1139  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
-  <path d="M 1541.5 1135.5  A 3.5 3.5 0 0 0 1538 1139 A 3.5 3.5 0 0 0 1541.5 1142.5 A 3.5 3.5 0 0 0 1545 1139 A 3.5 3.5 0 0 0 1541.5 1135.5 Z M 1625.8928932188135 1134.7071067811864  L 1630.185786437627 1139  L 1625.8928932188135 1143.2928932188136  L 1627.3071067811863 1144.7071067811864  L 1632.3071067811863 1139.7071067811864  L 1633.0142135623728 1139  L 1632.3071067811863 1138.2928932188136  L 1627.3071067811863 1133.2928932188136  L 1625.8928932188135 1134.7071067811864  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip70)" />
+  <path d="M 2707.5 161  L 2693 161  M 2770.5 161  L 2786 161  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
+  <path d="M 2694.5 157.5  A 3.5 3.5 0 0 0 2691 161 A 3.5 3.5 0 0 0 2694.5 164.5 A 3.5 3.5 0 0 0 2698 161 A 3.5 3.5 0 0 0 2694.5 157.5 Z M 2780.8928932188132 156.70710678118655  L 2785.1857864376266 161  L 2780.8928932188132 165.29289321881345  L 2782.3071067811866 166.70710678118655  L 2787.3071067811866 161.70710678118655  L 2788.0142135623732 161  L 2787.3071067811866 160.29289321881345  L 2782.3071067811866 155.29289321881345  L 2780.8928932188132 156.70710678118655  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip74)" />
 </svg>

@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="276px" preserveAspectRatio="xMidYMin meet" viewBox="1085 1997 8 276" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="Clip131">
-      <path d="M 686 2248  L 770 2248  L 770 2287  L 686 2287  Z M 460 1933  L 1099 1933  L 1099 2287  L 460 2287  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <path d="M 1089 1999  L 1089 2268  L 463 2268  L 463 1943  L 503 1943  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" mask="url(#Clip131)" />
-  <path d="M 1089 1997  A 3.5 3.5 0 0 0 1085.5 2000.5 A 3.5 3.5 0 0 0 1089 2004 A 3.5 3.5 0 0 0 1092.5 2000.5 A 3.5 3.5 0 0 0 1089 1997 Z M 497.89289321881347 1938.7071067811864  L 502.18578643762703 1943  L 497.89289321881347 1947.2928932188136  L 499.3071067811866 1948.7071067811864  L 504.3071067811866 1943.7071067811864  L 505.014213562373 1943  L 504.3071067811866 1942.2928932188136  L 499.3071067811866 1937.2928932188136  L 497.89289321881347 1938.7071067811864  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip131)" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="214px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="296 1939 214 8" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 298 1943  L 503 1943  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
+  <path d="M 299.5 1939.5  A 3.5 3.5 0 0 0 296 1943 A 3.5 3.5 0 0 0 299.5 1946.5 A 3.5 3.5 0 0 0 303 1943 A 3.5 3.5 0 0 0 299.5 1939.5 Z M 497.89289321881347 1938.7071067811864  L 502.18578643762703 1943  L 497.89289321881347 1947.2928932188136  L 499.3071067811866 1948.7071067811864  L 504.3071067811866 1943.7071067811864  L 505.014213562373 1943  L 504.3071067811866 1942.2928932188136  L 499.3071067811866 1937.2928932188136  L 497.89289321881347 1938.7071067811864  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" />
 </svg>

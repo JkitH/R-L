@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="69px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="1181 1938  69 8" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip1701">
-      <path d="M 1213.5 1923  L 1276.5 1923  L 1276.5 1962  L 1213.5 1962  Z M 1171 1923  L 1320 1923  L 1320 1962  L 1171 1962  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <path d="M 1183 1942  L 1245 1942  L 1245 1943  L 1308 1943  " stroke-width="2" stroke="#555555" fill="none" mask="url(#clip1701)" />
-  <path d="M 1184.5 1938.5  A 3.5 3.5 0 0 0 1181 1942 A 3.5 3.5 0 0 0 1184.5 1945.5 A 3.5 3.5 0 0 0 1188 1942 A 3.5 3.5 0 0 0 1184.5 1938.5 Z M 1302.89289321881 1938.70710678119  L 1307.18578643763 1943  L 1302.89289321881 1947.29289321881  L 1304.30710678119 1948.70710678119  L 1309.30710678119 1943.70710678119  L 1310.01421356237 1943  L 1309.30710678119 1942.29289321881  L 1304.30710678119 1937.29289321881  L 1302.89289321881 1938.70710678119  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip1701)" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="90px" preserveAspectRatio="xMidYMin meet" viewBox="1421 2260 8 90" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1425 2262  L 1425 2345  L 434 2345  L 434 1943  L 503 1943  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
+  <path d="M 1425 2260  A 3.5 3.5 0 0 0 1421.5 2263.5 A 3.5 3.5 0 0 0 1425 2267 A 3.5 3.5 0 0 0 1428.5 2263.5 A 3.5 3.5 0 0 0 1425 2260 Z M 497.89289321881347 1938.7071067811864  L 502.18578643762703 1943  L 497.89289321881347 1947.2928932188136  L 499.3071067811866 1948.7071067811864  L 504.3071067811866 1943.7071067811864  L 505.014213562373 1943  L 504.3071067811866 1942.2928932188136  L 499.3071067811866 1937.2928932188136  L 497.89289321881347 1938.7071067811864  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" />
 </svg>
