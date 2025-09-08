@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="369px" preserveAspectRatio="xMidYMin meet" viewBox="2184 156 8 369" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="358px" preserveAspectRatio="xMidYMin meet" viewBox="2186 663 8 358" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="Clip256">
-      <path d="M 1916.5 501  L 2021.5 501  L 2021.5 540  L 1916.5 540  Z M 1414 151  L 2215 151  L 2215 540  L 1414 540  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip262">
+      <path d="M 1915.5 997  L 2020.5 997  L 2020.5 1036  L 1915.5 1036  Z M 1415 658  L 2215 658  L 2215 1036  L 1415 1036  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 1424 472  L 1424 520  L 2188 520  L 2188 466  A 3 3 0 0 0 2191 463 A 3 3 0 0 0 2188 460 L 2188 161  L 2203 161  " stroke-width="2" stroke-dasharray="0" stroke="rgba(217, 0, 27, 1)" fill="none" class="stroke" mask="url(#Clip256)" />
-  <path d="M 1424 470  A 3.5 3.5 0 0 0 1420.5 473.5 A 3.5 3.5 0 0 0 1424 477 A 3.5 3.5 0 0 0 1427.5 473.5 A 3.5 3.5 0 0 0 1424 470 Z M 2197.8928932188132 156.70710678118655  L 2202.1857864376266 161  L 2197.8928932188132 165.29289321881345  L 2199.3071067811866 166.70710678118655  L 2204.3071067811866 161.70710678118655  L 2205.0142135623732 161  L 2204.3071067811866 160.29289321881345  L 2199.3071067811866 155.29289321881345  L 2197.8928932188132 156.70710678118655  Z " fill-rule="nonzero" fill="rgba(217, 0, 27, 1)" stroke="none" class="fill" mask="url(#Clip256)" />
+  <path d="M 1425 976  L 1425 1016  L 2190 1016  L 2190 978  A 3 3 0 0 0 2193 975 A 3 3 0 0 0 2190 972 L 2190 668  L 2203 668  " stroke-width="2" stroke-dasharray="0" stroke="rgba(217, 0, 27, 1)" fill="none" class="stroke" mask="url(#Clip262)" />
+  <path d="M 1425 974  A 3.5 3.5 0 0 0 1421.5 977.5 A 3.5 3.5 0 0 0 1425 981 A 3.5 3.5 0 0 0 1428.5 977.5 A 3.5 3.5 0 0 0 1425 974 Z M 2197.8928932188132 663.7071067811866  L 2202.1857864376266 668  L 2197.8928932188132 672.2928932188134  L 2199.3071067811866 673.7071067811866  L 2204.3071067811866 668.7071067811866  L 2205.0142135623732 668  L 2204.3071067811866 667.2928932188134  L 2199.3071067811866 662.2928932188134  L 2197.8928932188132 663.7071067811866  Z " fill-rule="nonzero" fill="rgba(217, 0, 27, 1)" stroke="none" class="fill" mask="url(#Clip262)" />
 </svg>
