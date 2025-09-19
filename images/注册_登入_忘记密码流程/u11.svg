@@ -6,8 +6,8 @@
       <path d="M 114 111  L 0 55.5  L 114 0  L 228 55.5  L 114 111  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -1310 -105 )">
-    <path d="M 114 111  L 0 55.5  L 114 0  L 228 55.5  L 114 111  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 1310 105 )" class="fill" />
-    <path d="M 114 111  L 0 55.5  L 114 0  L 228 55.5  L 114 111  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1310 105 )" class="stroke" mask="url(#Clip5)" />
+  <g transform="matrix(1 0 0 1 -975 -105 )">
+    <path d="M 114 111  L 0 55.5  L 114 0  L 228 55.5  L 114 111  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 975 105 )" class="fill" />
+    <path d="M 114 111  L 0 55.5  L 114 0  L 228 55.5  L 114 111  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 975 105 )" class="stroke" mask="url(#Clip5)" />
   </g>
 </svg>

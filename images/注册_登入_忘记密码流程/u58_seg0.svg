@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="1538 664 100 8" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="112px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="1203 664 112 8" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <mask fill="white" id="Clip66">
-      <path d="M 1565 649  L 1607 649  L 1607 688  L 1565 688  Z M 1528 649  L 1643 649  L 1643 688  L 1528 688  Z " fill-rule="evenodd" />
+      <path d="M 1236 649  L 1278 649  L 1278 688  L 1236 688  Z M 1193 649  L 1320 649  L 1320 688  L 1193 688  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 1565 668  L 1540 668  M 1607 668  L 1631 668  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
-  <path d="M 1541.5 664.5  A 3.5 3.5 0 0 0 1538 668 A 3.5 3.5 0 0 0 1541.5 671.5 A 3.5 3.5 0 0 0 1545 668 A 3.5 3.5 0 0 0 1541.5 664.5 Z M 1625.8928932188135 663.7071067811866  L 1630.185786437627 668  L 1625.8928932188135 672.2928932188134  L 1627.3071067811863 673.7071067811866  L 1632.3071067811863 668.7071067811866  L 1633.0142135623728 668  L 1632.3071067811863 667.2928932188134  L 1627.3071067811863 662.2928932188134  L 1625.8928932188135 663.7071067811866  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip66)" />
+  <path d="M 1236 668  L 1205 668  M 1278 668  L 1308 668  " stroke-width="2" stroke-dasharray="0" stroke="rgba(85, 85, 85, 1)" fill="none" class="stroke" />
+  <path d="M 1206.5 664.5  A 3.5 3.5 0 0 0 1203 668 A 3.5 3.5 0 0 0 1206.5 671.5 A 3.5 3.5 0 0 0 1210 668 A 3.5 3.5 0 0 0 1206.5 664.5 Z M 1302.8928932188135 663.7071067811866  L 1307.185786437627 668  L 1302.8928932188135 672.2928932188134  L 1304.3071067811863 673.7071067811866  L 1309.3071067811863 668.7071067811866  L 1310.0142135623728 668  L 1309.3071067811863 667.2928932188134  L 1304.3071067811863 662.2928932188134  L 1302.8928932188135 663.7071067811866  Z " fill-rule="nonzero" fill="rgba(85, 85, 85, 1)" stroke="none" class="fill" mask="url(#Clip66)" />
 </svg>
